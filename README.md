@@ -1,0 +1,3 @@
+### Problema de clasificacion multiclase desbalanceada
+
+## SMOTE,UMAP,...
