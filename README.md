@@ -1,3 +1,3 @@
-### Problema de clasificacion multiclase desbalanceada
+# Problema de clasificacion multiclase desbalanceada
 
 ## SMOTE,UMAP,...
